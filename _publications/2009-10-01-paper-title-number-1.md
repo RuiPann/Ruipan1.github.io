@@ -1,10 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "The Effects of Trade on Tax Avoidance"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 1 is left for future work.'
+excerpt: 'Does trade liberalization aggravate tax avoidance? We build a three-country 
+		model of tax competition consisting of two non-haven countries and one tax haven 
+		in which goods are traded between the non-havens 
+		and firms may shift profits to the tax haven. When the non-havens 
+		cooperate, the reduction in trade costs does not change the degree of
+		tax avoidance. In contrast, when the non-havens do not cooperate, 
+		the equilibrium tax rates become higher, resulting in
+		more tax avoidance. Furthermore,  trade liberalization strengthens the tax competition between
+		non-havens, which further increases the tax-avoidance activities.'
 date: 2023-10-01
-venue: 'Journal 1'
+venue: 'International Journal of Economic Theory'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
