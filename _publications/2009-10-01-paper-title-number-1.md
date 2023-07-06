@@ -13,8 +13,8 @@ excerpt: 'Does trade liberalization aggravate tax avoidance? We build a three-co
 		non-havens, which further increases the tax-avoidance activities.'
 date: 2023-10-01
 venue: 'International Journal of Economic Theory'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/ijet.12384'
+citation: 'Pan, R., & Zeng, D. Z. (2023). The effects of trade liberalization on tax avoidance. International Journal of Economic Theory.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
