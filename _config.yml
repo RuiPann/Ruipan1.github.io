@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui Pan / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Rui Pan"
-description              : a Ph.D candidate
+description              : an economics researcher
 url                      : https://RuiPann.github.io
 baseurl                  : 
 repository               : "Ruipann/panrui.github.io"
