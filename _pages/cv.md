@@ -11,21 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* B.A. in Management, Chongqing University, 2016
+* M.A. in Information Science, Tohoku University, 2019
+* Doctor of Philosophy, Tohoku University, 2023
+  
+  
+Working Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Tohoku University: Research Assistant
+  * Research on political science (2017-2018)
+  * Duties included: Gathered and organized data on election results and political parties in various countries
+  * Supervisor: Professor   Masaaki Higashijima
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Keio University: Research Assistant
+  * Research on political science (2018-2019)
+  * Duties included: Reviewed English-language resources and research materials that explain each country's independence period, and coded the information gathered
+  * Supervisor: Professor Yuko Kasuya
+  
+* Tohoku University: Teaching Assistant
+  * Game Theory (Spring 2019, 2022)
+  * Duties included: Taught one section on applications of Game Theory,
+  * Supervisor: Professor Zeng
+
+* Tohoku University: Teaching Assistant
+  * Seminar on Human-Social Information Sciences (2019-2022)
+  * Duties included: Provided guidance and assistance to master's level students with their theses
+  * Supervisor: Professor Dao-zhi Zeng
+    
+* Tohoku University: Research Assistant
+  * Research on trade theory (2019-2022)
+  * Duties included: Conducted research on the market distortions in the general equilibrium models with variable elasticity of substitution utility function
+  * Supervisor: Professor Dao-zhi Zeng
+ 
   
 Skills
 ======
